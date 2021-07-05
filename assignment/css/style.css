@@ -1,0 +1,94 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
+}
+.pic img{
+    width:80%;
+    padding: 5px;
+    background-color: lemonchiffon;
+    margin: 10%;
+
+}
+.head{
+    text-align: center;
+    color: rgb(10, 53, 139);
+    background-image: linear-gradient(salmon,violet);
+    padding: 25px;
+    border: coral 3px solid;
+    font-size: 2em;
+    font-weight: 700;
+    border-radius: 40px;
+
+}
+p{
+    color: rgb(224, 58, 36);
+    border: darkcyan 2px solid;
+    padding: 25px;
+    font-size: 1.4em;
+    font-weight: 700;
+}
+.text
+{
+    width:80%;
+    padding:20 px 3opx;
+    margin: 20px 30px;
+}
+.flex{
+    display: flex;
+}
+.hw
+{
+width: 50%;
+margin-left: 50px;
+}
+.box
+{
+    box-shadow: 10px 15px 30px rgb(95, 86, 86);
+}
+.button
+{   margin: 30px 40px;
+    text-decoration: none;
+    color: darkkhaki;
+    font-size: 2 em;
+    background-image: linear-gradient(green,blue);
+    padding: 10px 20px;
+    border: darkorange solid 3px;
+    border-radius: 40px;
+}
+.button:hover
+{ 
+    color: rgb(18, 19, 19);
+    border-bottom: lightcoral;
+}
+.pic2
+{
+    width:60%;
+margin-left: 50px;
+}
+.head1{
+    text-align: center;
+    color: rgb(240, 243, 240);
+    background-image: linear-gradient(rgb(114, 207, 250),rgb(163, 28, 28));
+    padding: 25px;
+    border: rgb(177, 52, 7) 3px solid;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+h3{
+    text-align: center;
+    color: rgb(13, 13, 14);
+    padding: 10px;
+}
+.box1{
+    border-image:linear-gradient(rgb(0, 255, 42), skyblue);
+    border-left:10px solid;
+    border-image-slice: 1;
+    margin: 5%;
+    background-image: linear-gradient(rgb(47, 218, 55),rgb(201, 120, 15));
+}
+footer{
+    text-align: center;
+    color:rebeccapurple;
+    background-color: lightgreen;
+}
